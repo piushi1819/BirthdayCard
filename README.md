@@ -1,3 +1,3 @@
-# BirthdayCard
+# Happy Birthday Dear
 
-Visit -  https://nishantrajwebdeveloper.github.io/BirthdayCard/birthday%20-%20Copy
+Visit -  https://rushiandpihu.github.io/BirthdayCard/birthday%20-%20Copy
